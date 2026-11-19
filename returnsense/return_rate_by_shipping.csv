@@ -1,0 +1,4 @@
+shipping_method,orders,returned_orders,return_rate_pct
+express,53088,28252,53.22
+standard,131311,59757,45.51
+same_day,15601,6910,44.29

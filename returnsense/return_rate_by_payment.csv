@@ -1,0 +1,5 @@
+payment_method,orders,returned_orders,return_rate_pct
+apple_pay,47518,24788,52.17
+credit_card,54743,26391,48.21
+paypal,41072,18706,45.54
+debit_card,56667,25034,44.18

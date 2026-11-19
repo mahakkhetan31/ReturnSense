@@ -1,0 +1,4 @@
+Model,Validation_ROC_AUC
+Gradient-Boosted Trees,0.5928214183668885
+Random Forest,0.5922589283778176
+Logistic Regression,0.5897164220862989

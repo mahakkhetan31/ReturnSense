@@ -1,0 +1,4 @@
+device_type,orders,returned_orders,return_rate_pct
+desktop,48903,25385,51.91
+tablet,41726,20189,48.38
+mobile,109371,49345,45.12

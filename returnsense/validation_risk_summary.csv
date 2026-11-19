@@ -1,0 +1,4 @@
+risk_level,order_count,average_predicted_risk,actual_return_rate
+High,305,0.7209,0.7246
+Medium,31531,0.5038,0.5031
+Low,8064,0.3536,0.3533
